@@ -1,9 +1,11 @@
 ![Spring_Boot_Starter_API](https://github.com/user-attachments/assets/dbd8c607-3427-4447-8378-21d23fc39ccc)
 
-[![Java](https://img.shields.io/badge/Java-11-orange)](https://www.oracle.com/java/technologies/javase-jdk11-downloads.html)
-[![Spring Boot](https://img.shields.io/badge/Spring%20Boot-2.7.0-brightgreen)](https://spring.io/projects/spring-boot)
-[![Maven](https://img.shields.io/badge/Maven-3.8.5-blue)](https://maven.apache.org/)
-
+<div align="center">
+  
+  [![Java](https://img.shields.io/badge/Java-11-orange)](https://www.oracle.com/java/technologies/javase-jdk11-downloads.html)
+  [![Spring Boot](https://img.shields.io/badge/Spring%20Boot-2.7.0-brightgreen)](https://spring.io/projects/spring-boot)
+  [![Maven](https://img.shields.io/badge/Maven-3.8.5-blue)](https://maven.apache.org/)
+</div>
 This project is a **Spring Boot Starter** template that provides a foundation for building APIs. The project demonstrates an example of a RESTful API for managing a `Person` entity. It includes features such as basic CRUD operations and serves as a starting point for more complex Spring Boot applications.
 
 ## Table of Contents
